@@ -18,3 +18,11 @@ Include just this file in your project.
 * void Base95_plusOne(Base95*): Make the operation +1 on the Base95.value (next char or next ten) (void)
 * void Base95_dispValue(Base95*): Display the value Base95.value_r (void)
 * void Base95_invertValue(Base95*): Used in other functions to return Base95.value and set it to Base95.value_r (void)
+
+### How to use
+* copy Base95.h and Base95.c to your project folder
+* include "Base95.h"
+* create a Base95 variable
+* initialize it
+* in your main loop, you just have to call the Base95_plusOne() function
+* the current password is in foo.value_r (Base95 foo;)
