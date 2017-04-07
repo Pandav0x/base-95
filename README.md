@@ -1,6 +1,6 @@
 # Base95
 Just a C structure and functions to simplify brute-force.
-(Contrary to what github says, there are Objective-C in this project)
+(Contrary to what github says, there are no Objective-C in this project)
 
 ### Base95.h
 The header of the structure and its function.
