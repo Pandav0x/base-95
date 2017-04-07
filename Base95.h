@@ -2,7 +2,7 @@
 #define BASE95_H
 
 #define BASE95_ALPHA_SIZE 95 //Size of the alphabet (95 = all the possible characters)
-#define BASE95_PV_SIZE 40 //Max length pf the password
+#define BASE95_PV_SIZE 40 //Max length of the password
 
 typedef struct
 {
